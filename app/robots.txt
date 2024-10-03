@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://artisbokepindo.pages.dev/sitemap.xml
